@@ -1,6 +1,11 @@
 # subuntu project - Super Ubuntu
 subuntu not Stealify Ubuntu it is simply Super Ubuntu a ubuntu distribution using stealify at ring 0 as also everything on edge merging incremental to ubuntu/debian into @stealify/os it is the Prefered Development Environment till Stealify OS Reaches Standalone State.
 
+## Vision
+As Stealify FS offers a uniq layer that allows us to deploy multiple container formats virtual via btrfs we can create a ubuntu distro that can use
+all package-managers via container abstractions of virtual composed filesystem trees and then compose out of that none containered nativ filesystems.
+This allows us to incremental migrate port ubuntu and the dart stack to the Stealify Component System and the kernel parts to the @stealify/hardware system to create a stealify/os expirence. while we can create a minimal stealify/os already. this is a effort to make it adopt able by ubuntu users.
+
 ## Goals
 - [ ] install and run the stealify component manager and [runtime](https://github.com/stealify/stealify) as also schedule it via SystemD
 - [ ] install and run the stealify VSStudio Component core UI for the OS till gnome is replaced. to have a uniq foundation we can build on while we incremental port and merge everything!
