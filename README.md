@@ -4,6 +4,7 @@ subuntu not Stealify Ubuntu it is simply Super Ubuntu a ubuntu distribution usin
 ## Goals
 - [ ] install and run the stealify component manager and [runtime](https://github.com/stealify/stealify) as also schedule it via SystemD
 - [ ] install and run the stealify VSStudio Component core UI for the OS till gnome is replaced. to have a uniq foundation we can build on while we incremental port and merge everything!
+  - [ ] briding the container systems via @stealify/fs 
   - [ ] Integrate DBUS Tasks for gnome and other integrations. 
   - [ ] Replace SystemD with Stealify Component Manager Running @stealify/os component at ring 0 
   - [ ] Integrate AsteriskGL *GL as core Graphics Layer and driver
