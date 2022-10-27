@@ -1,0 +1,5 @@
+{ 
+    "name": "modules",
+    "private": true, 
+    "type": "module"
+}

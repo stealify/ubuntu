@@ -1,0 +1,8 @@
+{ 
+    "name": "subuntu",
+    "private": true, 
+    "type": "module",
+    "dependencies": {
+        "modules": "file://../modules/"
+    }
+}

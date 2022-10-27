@@ -1,0 +1,6 @@
+{ 
+    "name": "@stealify/ubuntu",
+    "private": true, 
+    "type": "module",
+    "workspaces": ["workspaces/*"]
+}
